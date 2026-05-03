@@ -1,12 +1,12 @@
-# Data Science with NLP Applications
+# Επιστήμη Δεδομένων με Εφαρμογές στην Επεξεργασία Φυσικής Γλώσσας
 
-Companion notebooks for the book *Data Science with NLP Applications*.
+Συνοδευτικά notebooks για το βιβλίο *Επιστήμη Δεδομένων με Εφαρμογές στην Επεξεργασία Φυσικής Γλώσσας*.
 
-The notebooks are organized by chapter in the [`notebooks/`](notebooks/) directory.
+Τα notebooks είναι οργανωμένα ανά κεφάλαιο στον φάκελο [`notebooks/`](notebooks/).
 
 ## Notebooks
 
-| Chapter | Notebook |
+| Κεφάλαιο | Notebook |
 | --- | --- |
 | 1 | [Εισαγωγή στην Επιστήμη Δεδομένων](notebooks/01_εισαγωγη_στην_επιστημη_δεδομενων.ipynb) |
 | 2 | [Εργαλεία και Περιβάλλον Εργασίας](notebooks/02_εργαλεια_και_περιβαλλον_εργασιας.ipynb) |
@@ -28,12 +28,12 @@ The notebooks are organized by chapter in the [`notebooks/`](notebooks/) directo
 | 19 | [Μάθηση με Αβεβαιότητα](notebooks/19_μαθηση_με_αβεβαιοτητα.ipynb) |
 | 20 | [Μάθηση με Πολωμένο Σήμα](notebooks/20_μαθηση_με_πολωμενο_σημα.ipynb) |
 
-## Usage
+## Χρήση
 
-Open the notebooks locally with JupyterLab, Jupyter Notebook, or an environment that supports `.ipynb` files.
+Μπορείτε να ανοίξετε τα notebooks τοπικά με JupyterLab, Jupyter Notebook ή άλλο περιβάλλον που υποστηρίζει αρχεία `.ipynb`.
 
 ```bash
 jupyter lab
 ```
 
-Some notebooks download data or install optional libraries when executed. Check the first cells of each notebook before running it end to end.
+Ορισμένα notebooks κατεβάζουν δεδομένα ή χρησιμοποιούν προαιρετικές βιβλιοθήκες κατά την εκτέλεση. Πριν εκτελέσετε ένα notebook από την αρχή μέχρι το τέλος, ελέγξτε τα πρώτα κελιά του.
